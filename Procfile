@@ -1,1 +1,1 @@
-web: java -jar build/libs/shadyshop.jar
+web: java -jar build/libs/shadyshop-1.0.jar
