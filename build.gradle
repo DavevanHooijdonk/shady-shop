@@ -23,7 +23,7 @@ apply plugin: "application"
 mainClassName='com.brocoding.shadyshop.ShadyShop'
 
 jar {
-    baseName = 'bro-coding-sshop'
+    baseName = 'bro-coding-shadyshop'
     version = '1.0'
 }
 
