@@ -1,0 +1,1 @@
+INSERT INTO user (character_name, first_name, last_name, salary, doclars) VALUES ('SHOP','SHOP','SHOP', 0, 0)

@@ -1,5 +1,5 @@
 {
-  "name": "Start on Heroku: Kotlin",
-  "description": "A barebones Kotlin app, which can easily be deployed to Heroku.",
+  "name": "Shady Shop App for Doc no Dragons",
+  "description": "Card Shop app for buying and managing card for Doc no Dragons",
   "addons": [ "heroku-postgresql" ]
 }
