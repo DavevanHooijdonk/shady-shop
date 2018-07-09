@@ -1,1 +1,1 @@
-web: java -jar build/libs/bro-coding-shadyshop-1.0.jar
+web: java -jar target/bro-coding-shadyshop-1.0.jar
